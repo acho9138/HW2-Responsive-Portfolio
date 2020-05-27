@@ -37,13 +37,6 @@ body {
     bottom: 0;
 }
 
-/* CSS for contact page */
-.card-contact {
-    margin: 50px auto;
-    width: 70%;
-    padding: 30px 30px;
-}
-
 /* CSS for About page */
 .float {
     position: relative;
@@ -61,4 +54,34 @@ body {
 .padding {
     padding-top: 40px;
     padding-left: 30px;
+}
+
+#about-line {
+    padding-bottom: 20px;
+}
+
+/* CSS for Portfolio page */
+.portfolio {
+    padding-top: 30px;
+}
+
+#portfolio-line {
+    width: 61%;
+    padding-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+/* CSS for Contact page */
+.card-contact {
+    margin: 50px auto;
+    width: 70%;
+    padding: 30px 30px;
+}
+
+#contact-line {
+    padding-bottom: 20px;
+    margin-top: 0;
 }
