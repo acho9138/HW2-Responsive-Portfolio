@@ -73,6 +73,18 @@ a {
     color: black;
 }
 
+.card-img-top {
+    height: 212px;
+}
+
+.card-title {
+    text-align: left;
+}
+
+.icon {
+    text-align: right;
+}
+
 /* CSS for Contact page */
 .card-contact {
     margin: 50px auto;
