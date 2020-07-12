@@ -96,3 +96,19 @@ a {
     padding-bottom: 20px;
     margin-top: 0;
 }
+
+.contactInfoDiv {
+    background-color: #59aaa5;
+    margin: 50px 0;
+    padding-top: 30px;
+    color: white;
+}
+
+.contactInfo {
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+    color: white;
+}
